@@ -1,0 +1,138 @@
+# Arquivos de configuração do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Arquivos de build e binários
+bin/
+obj/
+
+# Arquivos de pacote e cache
+packages/
+*.nupkg
+*.snupkg
+*.vsix
+*.vscode/
+
+# Arquivos de sistema
+*.dbmdl
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos do Rider IDE
+.idea/
+
+# Arquivos de dependências de NuGet
+.nuget/
+
+# Arquivos de configuração de usuário
+*.suo
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Arquivos gerados por ferramentas de build
+*.dmp
+*.pdb
+*.opendb
+
+# Arquivos de configuração do Rider
+.idea/
+
+# Arquivos de caches do compilador
+*.suo
+*.cache
+
+# Outras exclusões genéricas
+*.DS_Store
+Thumbs.db
+
+# Arquivos temporários e de sistema
+ehthumbs.db
+Desktop.ini
+
+# Arquivos gerados por outros processos
+*.csproj.user
+*.csproj.lock
+*.csproj.ide
+*.sln.ide
+
+# Logs de processos
+*.log
+
+# Arquivos de controle de versão de pacotes NuGet
+packages.lock.json
+
+# Arquivos de IntelliTrace
+*.iTrace
+
+# Arquivos de documentação gerados automaticamente
+*.xml
+
+# Arquivos de backup e temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Configurações específicas de ferramentas
+.vscode/
+*.code-workspace
+
+# Diretórios do ASP.NET
+wwwroot/
+
+# Arquivos de banco de dados locais
+*.mdf
+*.ldf
+
+# Arquivos gerados por Visual Studio Code
+.vscode/
+
+# Diretórios de build específicos
+*/Debug/
+*/Release/
+*/x64/
+*/x86/
+
+# Arquivos de configuração do MSBuild
+*.targets
+*.props
+
+# Arquivos gerados por processos de build e pacotes
+*.pkgdef
+*.builds
+*.dmg
+*.msi
+*.nupkg
+
+# Outros arquivos temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.orig
+*.old
+*.rej
+*.patch
+*.diff
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# Excluir os arquivos de certificados e chaves privadas
+*.pfx
+*.p12
+*.key
+*.cert
+
+# Excluir configurações de depuração e perfil de usuário
+*.launchSettings.json
