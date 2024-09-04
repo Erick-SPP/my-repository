@@ -1,6 +1,6 @@
 ﻿namespace Calculadora
 {
-    partial class Form1
+    partial class FrmCalculadora
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -30,12 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FrmCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(1018, 618);
+            this.MaximizeBox = false;
+            this.Name = "FrmCalculadora";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
